@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Shopify custom elements.
-- 🌱 I’m currently learning Liquid, Next.js. 
+- 🌱 I’m currently learning Liquid, Next.js, TypeScript.
 - 📫 How to reach me: max@maxcen.dev
 
 <!--
